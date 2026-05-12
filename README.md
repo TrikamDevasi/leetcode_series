@@ -147,10 +147,10 @@ Each video follows this structure:
 
 ## 📬 Contact
 
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn]
-- 🧑‍💻 LeetCode: [your LeetCode profile]
-- 🎥 YouTube: [your YouTube channel]
+- 📧 Email: trikam.devasi.cg@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/trikam-devasi-3975573a2/
+- 🧑‍💻 LeetCode: https://leetcode.com/u/TrikamDevasi/
+- 🎥 YouTube: https://www.youtube.com/@TrikamDevasi16
 
 ---
 
