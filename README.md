@@ -21,7 +21,7 @@
 
 | Metric | Target | Completed |
 |--------|--------|-----------|
-| ✅ Problems Solved | 160 | 0 |
+| ✅ Problems Solved | 160 | 5 |
 | 🎥 Videos Uploaded | 40 | 0 |
 | 📅 Deadline | June 15, 2026 | — |
 
